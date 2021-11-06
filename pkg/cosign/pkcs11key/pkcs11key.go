@@ -30,7 +30,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ThalesIgnite/crypto11"
+	"github.com/zosocanuck/crypto11"
 	"github.com/miekg/pkcs11"
 	"github.com/pkg/errors"
 	"github.com/sigstore/sigstore/pkg/signature"
