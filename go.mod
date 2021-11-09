@@ -50,7 +50,7 @@ require (
 	github.com/onsi/gomega v1.16.0 // indirect
 	github.com/prometheus/procfs v0.7.3 // indirect
 	github.com/urfave/cli v1.22.5 // indirect
-	github.com/zosocanuck/crypto11 v1.2.6-0.20211108151826-1ec1052da85a
+	github.com/zosocanuck/crypto11 v1.2.6-0.20211109211628-88217be87d9e
 	go.opentelemetry.io/contrib v1.1.0 // indirect
 	go.opentelemetry.io/proto/otlp v0.10.0 // indirect
 	golang.org/x/mod v0.5.1 // indirect
